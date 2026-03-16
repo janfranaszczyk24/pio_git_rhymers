@@ -1,0 +1,22 @@
+# compiled files
+*.class
+
+# logs
+*.log
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# Maven
+target/
+
+# OS
+.DS_Store
+Thumbs.db
