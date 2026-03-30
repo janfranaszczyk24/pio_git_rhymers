@@ -1,5 +1,6 @@
 package edu.kis.vh.nursery;
 
+import junit.framework.TestCase;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -75,4 +76,7 @@ public class RhymersJUnitTest {
         Assert.assertEquals(EMPTY_STACK_VALUE, result);
     }
     //Kod jest poprawny
+
 }
+
+
