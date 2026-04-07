@@ -2,7 +2,7 @@ package edu.kis.vh.nursery.list;
 
 public class Node {
 
-    public int value;
+    public final int value;
     private Node prev;
     private Node next;
 
